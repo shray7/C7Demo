@@ -1,0 +1,5 @@
+C:\Temp\C7Demo\C7\C7\obj\Debug\C7.csprojResolveAssemblyReference.cache
+C:\Temp\C7Demo\C7\C7\bin\Debug\C7.dll
+C:\Temp\C7Demo\C7\C7\bin\Debug\C7.pdb
+C:\Temp\C7Demo\C7\C7\obj\Debug\C7.dll
+C:\Temp\C7Demo\C7\C7\obj\Debug\C7.pdb
